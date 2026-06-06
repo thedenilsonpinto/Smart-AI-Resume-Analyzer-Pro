@@ -2,6 +2,9 @@
 
 AI Powered Resume Screening and Career Recommendation System.
 
+🥪 Live Demo
+https://smart-ai-resume-analyzer-pro-thedenilsonpinto.streamlit.app/
+
 ## Features
 
 - ATS Score Analysis
